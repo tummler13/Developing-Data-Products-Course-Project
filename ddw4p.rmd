@@ -1,0 +1,34 @@
+---
+title: "DDPW4 Presentation"
+author: "Ayush Mohapatra"
+date: "07/11/2020"
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## R Markdown
+
+This presentation consists of literally nothing, it's random totally random ab tum hi dekhlo
+
+## Slide with Bullets
+
+- Made a silly app about my faithful geyser jo bina bijli ke chalta hai
+- Best of luck
+
+## R Output R for Random
+
+```{r cars, echo = TRUE}
+summary(cars)
+```
+## Request 
+
+Passing mark chahiye pls, Thank you
+
+## Presentation looks solid with a plot haha
+
+```{r pressure}
+plot(pressure)
+```
